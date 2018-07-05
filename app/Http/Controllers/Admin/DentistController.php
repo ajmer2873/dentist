@@ -21,7 +21,7 @@ class DentistController extends Controller
     //     	'first_name'=>'ajmer',
     //     	'last_name' => 'singh',	
     //     	'email'=>'ajmer@gmail.com',
-    //         'password'=>bcrypt('123456789'),
+    //      'password'=>bcrypt('123456789'),
     //     	'role' => '1',
     //     	'state' =>'punjab',
     //     	'city' => 'mohali',
